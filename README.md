@@ -40,13 +40,24 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 
 ---
 
-## 📊 GitHub Stats
+## 🕹️ Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Dyka0/Dyka0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 
+<sub>💡 This animated "snake" eats through your contribution graph. Set it up once via GitHub Actions (see note below) and it updates automatically.</sub>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dyka0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyka0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
@@ -57,9 +68,6 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 ---
 
 <div align="center">
-
-
-</div>
 
 ## 📬 Let's Connect
 
