@@ -1,53 +1,84 @@
-<h2 align="center">Hi, I'm Andhika 👋<br>Information Systems Student | Aspiring Data Analyst & Software Developer</h2>
-
-###
-
-<h4 align="left">About Me<br>- 🎓 Information Systems Student at Universitas Singaperbangsa Karawang<br>- 📊 Interested in Data Analytics, Business Intelligence, and Software Development<br>- 💻 Currently learning Java, SQL, Tableau, Pentaho, UI/UX Design, and Web Development<br>- 🌱 Building projects to strengthen my portfolio and gain industry experience</h4>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+
+# Halo, saya Dyka0 👋
+
+### Software Developer | Membangun solusi dari Web hingga Backend
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+PHP+%7C+Java;Web+Development+%26+Problem+Solving;Selalu+belajar+hal+baru+setiap+hari" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-andhikamuldani.my.id-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](http://andhikamuldani.my.id/)
+
 </div>
 
-###
+---
+
+## 🧭 Tentang Saya
+
+Saya seorang developer yang tertarik pada pengembangan **web dan aplikasi berbasis data**, dengan fokus karier di bidang **backend development dan software engineering**. Saya senang mengeksplorasi bahasa pemrograman baru, membangun proyek kecil-kecilan, dan terus mengasah kemampuan lewat praktik langsung.
+
+- 🔭 Saat ini sedang mengembangkan proyek-proyek pribadi untuk memperdalam skill full-stack
+- 🌱 Terus belajar best practices dalam pengembangan software
+- 💬 Bisa diajak diskusi soal Python, PHP, SQL, atau web development
+- 📫 Hubungi saya lewat website di bawah
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andhikamuldani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/Dtb6zkJC" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 </div>
 
-###
+---
+
+## 🚀 Featured Projects
+
+> *Bagian ini masih kosong — tambahkan proyek unggulan kamu di sini dengan format berikut:*
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dykk0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/dykk0/dykk0/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+
+| Project | Deskripsi | Link |
+|---|---|---|
+| 🔹 **Nama Project** | Deskripsi singkat 1-2 kalimat tentang apa yang dikerjakan dan tech stack yang dipakai. | [Repo](#) |
+| 🔹 **Nama Project** | Deskripsi singkat 1-2 kalimat tentang apa yang dikerjakan dan tech stack yang dipakai. | [Repo](#) |
+
 </div>
 
-###
+<sub>💡 Tips: ganti tabel ini dengan proyek asli kamu, sertakan link repo GitHub-nya agar orang bisa langsung eksplorasi.</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dykk0/dykk0/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dykk0/dykk0/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dykk0/dykk0/pacman-output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dyka0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyka0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyka0&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+**Tertarik kolaborasi atau sekadar ngobrol soal teknologi?**
+
+[![Website](https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=58A6FF)](http://andhikamuldani.my.id/)
+
+⭐️ Jangan lupa mampir ke repo-repo saya dan tinggalkan bintang jika bermanfaat!
+
+</div>
