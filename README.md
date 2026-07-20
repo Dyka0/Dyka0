@@ -1,10 +1,10 @@
 <div align="center">
 
-# Halo, saya Dyka0 👋
+# Hi, I'm Dyka0 👋
 
-### Software Developer | Membangun solusi dari Web hingga Backend
+### Aspiring Data Analyst & Machine Learning Enthusiast | Turning Data Into Insight
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+PHP+%7C+Java;Web+Development+%26+Problem+Solving;Selalu+belajar+hal+baru+setiap+hari" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Data+Analysis+%7C+Machine+Learning+%7C+Python;Turning+Raw+Data+Into+Decisions;SQL+%7C+Statistics+%7C+Predictive+Models" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-andhikamuldani.my.id-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](http://andhikamuldani.my.id/)
 
@@ -12,14 +12,15 @@
 
 ---
 
-## 🧭 Tentang Saya
+## 🧭 About Me
 
-Saya seorang developer yang tertarik pada pengembangan **web dan aplikasi berbasis data**, dengan fokus karier di bidang **backend development dan software engineering**. Saya senang mengeksplorasi bahasa pemrograman baru, membangun proyek kecil-kecilan, dan terus mengasah kemampuan lewat praktik langsung.
+I'm passionate about the world of **data and machine learning** — from wrangling raw data and uncovering hidden patterns, to building models that support real decision-making. My career focus is heading toward **Data Analysis / Machine Learning**, backed by hands-on programming skills across several languages.
 
-- 🔭 Saat ini sedang mengembangkan proyek-proyek pribadi untuk memperdalam skill full-stack
-- 🌱 Terus belajar best practices dalam pengembangan software
-- 💬 Bisa diajak diskusi soal Python, PHP, SQL, atau web development
-- 📫 Hubungi saya lewat website di bawah
+- 🔭 Currently deepening my knowledge in **data analysis, statistics, and machine learning**
+- 📊 Comfortable working with data using **SQL** and **Python** scripting
+- 🌱 Continuously learning ML tools & libraries (pandas, scikit-learn, etc.)
+- 💬 Happy to talk about data, predictive models, or data-driven problem solving
+- 📫 Reach out via the website below
 
 ---
 
@@ -39,20 +40,15 @@ Saya seorang developer yang tertarik pada pengembangan **web dan aplikasi berbas
 
 ---
 
-## 🚀 Featured Projects
-
-> *Bagian ini masih kosong — tambahkan proyek unggulan kamu di sini dengan format berikut:*
+## 🕹️ Contribution Snake
 
 <div align="center">
 
-| Project | Deskripsi | Link |
-|---|---|---|
-| 🔹 **Nama Project** | Deskripsi singkat 1-2 kalimat tentang apa yang dikerjakan dan tech stack yang dipakai. | [Repo](#) |
-| 🔹 **Nama Project** | Deskripsi singkat 1-2 kalimat tentang apa yang dikerjakan dan tech stack yang dipakai. | [Repo](#) |
+<img src="https://raw.githubusercontent.com/Dyka0/Dyka0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+
+<sub>💡 This animated "snake" eats through your contribution graph. Set it up once via GitHub Actions (see note below) and it updates automatically.</sub>
 
 </div>
-
-<sub>💡 Tips: ganti tabel ini dengan proyek asli kamu, sertakan link repo GitHub-nya agar orang bisa langsung eksplorasi.</sub>
 
 ---
 
@@ -75,10 +71,10 @@ Saya seorang developer yang tertarik pada pengembangan **web dan aplikasi berbas
 
 ## 📬 Let's Connect
 
-**Tertarik kolaborasi atau sekadar ngobrol soal teknologi?**
+**Interested in collaborating or just want to talk tech?**
 
 [![Website](https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=58A6FF)](http://andhikamuldani.my.id/)
 
-⭐️ Jangan lupa mampir ke repo-repo saya dan tinggalkan bintang jika bermanfaat!
+⭐️ Feel free to check out my repos and drop a star if you find them useful!
 
 </div>
