@@ -56,8 +56,8 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dyka0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyka0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="200" src="./generated/overview.svg" />
+<img height="200" src="./generated/languages.svg" />
 
 <br/>
 
