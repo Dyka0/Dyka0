@@ -46,8 +46,6 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 
 <img src="https://raw.githubusercontent.com/Dyka0/Dyka0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 
-<sub>💡 This animated "snake" eats through your contribution graph. Set it up once via GitHub Actions (see note below) and it updates automatically.</sub>
-
 </div>
 
 ---
