@@ -56,8 +56,8 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 
 <div align="center">
 
-<img height="200" src="./generated/overview.svg" />
-<img height="200" src="./generated/languages.svg" />
+<img height="200" src="https://raw.githubusercontent.com/Dyka0/github-stats/generated/overview.svg#gh-dark-mode-only" />
+<img height="200" src="https://raw.githubusercontent.com/Dyka0/github-stats/generated/languages.svg#gh-dark-mode-only" />
 
 <br/>
 
