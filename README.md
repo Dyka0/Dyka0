@@ -59,7 +59,7 @@ I'm passionate about the world of **data and machine learning** — from wrangli
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyka0&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dyka0&theme=radical&hide_border=true" />
 
 </div>
 
